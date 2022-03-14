@@ -1,0 +1,63 @@
+body{
+    background: url(images/img20.jpg) no-repeat  center center fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbar{
+    background: rgba(11, 11, 12, 0.562);
+    color: white;
+}
+.navbar-nav li{
+    font-size: large;
+    margin-right: 30px;
+    padding: 10px;
+}
+.navbar-nav li:hover{
+    border-bottom: 2px solid rgb(87, 86, 86);
+    cursor: pointer;
+}
+.jumbotron{
+    margin-top: 0px;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.jumbotron h1{
+  font-size: 70px;
+}
+.icon-img{
+    height: 100px;
+}
+.col-md-4{
+    padding: 10px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-bottom:20px ;
+}
+.icons p{ 
+    font-size: large;
+}
+.icons h2{
+    font-weight: bold;
+}
+.contact{
+    text-align: center;
+    margin-top: 10px;
+}
+.btn:hover{
+    color: rgb(228, 173, 173);
+}
+.btn{
+  background-color: rgba(164, 173, 182, 0.123);  
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  width: 300px;
+  font-size: 30px;
+  margin-bottom: 80px;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.301);
+    color: white;
+    padding: 10px;
+}
